@@ -1,6 +1,7 @@
 body{
     margin: 0px;
     font-family:  'Roboto Slab',   serif ;
+    width: 100%;
 }
 h1{
     font-size: 30px;   
